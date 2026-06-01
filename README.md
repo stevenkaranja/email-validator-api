@@ -1,6 +1,6 @@
 # Email Validator API
 
-> A REST API that validates email addresses through 3 layers: syntax → MX record → deliverability verification. Returns a 0–100 score and actionable recommendation.
+A REST API that validates email addresses through 3 layers: syntax - MX record - deliverability verification. Returns a 0–100 score and actionable recommendation.
 
 Built for GTM teams who need to clean lead lists before loading into a CRM or sending outbound sequences.
 
